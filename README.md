@@ -1,6 +1,8 @@
-### Haegyeong 👋
 
-**🌱 I’m currently learning ...**      
+<div align="center">
+<h2> Haegyeong Kim 👋 </h2>
+
+**🌱 Computer Science and Engineering at CNU**      
     
 <img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">   
@@ -13,19 +15,22 @@
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">   
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> 
+
+    
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaegyeongKim01&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaegyeongKim01&theme=nord_bright)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaegyeongKim01&theme=nord_bright&show_icons=true" width="42%" />
+</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaegyeongKim01&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaegyeongKim01&theme=nord_bright&utcOffset=8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻👨‍💻👩‍💻&fontAlign=70)
 
 
-<div float = "left">    
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HaegyeongKim01)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaegyeongKim01&layout=compact)
-
+    
 </div>
-
-
 
 <!--
 **HaegyeongKim01/HaegyeongKim01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
