@@ -1,8 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=C2E2E8&height=120)
 
-<div align="center">
-<h2> Haegyeong Kim 👋 </h2>
-
-**🌱 Computer Science and Engineering at CNU**      
+<div align="center">   
+    
+**Haegyeong Kim**     
+**🎓Computer Science and Engineering at CNU**      
     
 <img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">   
@@ -22,26 +23,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaegyeongKim01&theme=nord_bright)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaegyeongKim01&theme=nord_bright)
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaegyeongKim01&theme=nord_bright&show_icons=true" width="42%" />
-</a>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaegyeongKim01&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaegyeongKim01&theme=nord_bright&utcOffset=8)
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻👨‍💻👩‍💻&fontAlign=70)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=C2E2E8&height=120&animation=fadeIn&section=footer&text=💻&fontAlign=40)
     
 </div>
-
-<!--
-**HaegyeongKim01/HaegyeongKim01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
