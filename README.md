@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> 
 
     
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaegyeongKim01&theme=nord_bright)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaegyeongKim01&theme=nord_bright) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaegyeongKim01&theme=nord_bright)
 
